@@ -47,7 +47,7 @@ Para rodar este projeto na sua máquina, você precisará ter o Flutter e o Dart
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/FeVenttura/consumo_apis.git](https://github.com/FeVenttura/consumo_apis.git)
+   git clone [https://github.com/FeVenttura/consumo_apis.git]
 2. **Acesse a pasta do projeto:**
     ```bash 
     cd consumo_apis
